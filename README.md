@@ -1,2 +1,2 @@
 # Python-basics
-Code I wrote during "python basics" course on my first year
+First year course in JAMK for coding in python
